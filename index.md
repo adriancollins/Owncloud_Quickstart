@@ -7,25 +7,24 @@ permalink: /
 last_modified_date: 2020-04-27T17:54:08+0000
 ---
 
-![ownCloud logo](./assets/images/OwnCloud_logo.svg)
+![ownCloud logo](./assets/images/OwnCloud_logo2.svg)
 
-# ownCloud (version 10.5) Quickstart Guide
+# ownCloud (version 10.3.1) Quickstart Guide
 {: .fs-9 }
 
-Welcome to the ownCloud (version 10.5) Quickstart guide.
-ownCloud is an open source file sharing and collaboration platform that allows users to share files and folders easily. ownCloud can be accessed easily from any device, with client applications for desktop, iOS, and Android.
+Welcome to the ownCloud (version 10.3.1) Quickstart guide.
+ownCloud is an open-source project that enables individuals and businesses to host their own cloud storage. ownCloud can be accessed easily from any device, with client applications for desktop, iOS, and Android. Learn more about ownCloud in the [home page](https://owncloud.org/).
 
-Use this guide to get up and running with ownCloud as fast as possible.
-Learn more about ownCloud in the [home page](https://owncloud.org/).
+Use this guide to get up and running with ownCloud quickly.
 
 This guide is used by administrators and users.
 
-* Content specific to administrations is tagged with
+* Guides for system administrations are tagged with
 {: .d-inline-block }
 Admin
 {: .label .label-green }
 
-* Content specific to users is tagged with
+* Guides for users are tagged with
 {: .d-inline-block }
 User
 {: .label .label-blue }
