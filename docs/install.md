@@ -27,4 +27,4 @@ To install and configure ownCloud using a VirtualBox appliance file, complete th
 7. Click `Next` and `Import` to import the virtual appliance.
 6. To complete the installation, click `Start` on the virtual appliance and follow the steps in the configuration wizard. For a detailed guide on how to use the configuration wizard, refer to [How to Install the Appliance](https://doc.owncloud.org/server/10.4/admin_manual/appliance/installation/installation.html#configuration-wizard).
 
-Note: Keep a record of the administrator password and IP address you choose. You need this to configure and manage your ownCloud server.
+Note: Keep a record of the administrator password and server IP address you choose. You need this to configure and manage your ownCloud server.

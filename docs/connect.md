@@ -9,7 +9,7 @@ nav_order: 6
 User
 {: .label .label-blue }
 
-To connect to ownCloud as a user, install the appropriate apllication for your device.
+To connect to ownCloud as a user, install the appropriate application for your device.
 
 
 | Device       | Link          |
