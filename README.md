@@ -1,7 +1,10 @@
-# Quickstart guide for ownClosud
+# Quickstart guide for ownCloud
+
+![ownCloud logo](./assets/images/OwnCloud_logo.svg)
 
 ## What is this?
-This is the quick start guide for ownCloud.
+ownCloud is an open source file sharing and collaboration platform that allows users to share files and folders easily. ownCloud can be accessed easily from any device, with client applications for desktop, iOS, and Android.
+This is the quickstart guide for setting up your own ownCloud server.
 
 ## Prerequisites
 This document is built using the Jekyll static site generator along with the Just-the-docs theme. To build this document, ensure you have the following prerequisites installed on your system.

@@ -4,7 +4,7 @@ title: Install ownCloud
 nav_order: 2
 ---
 
-# Install ownCloud
+# Install and configure ownCloud
 {: .d-inline-block }
 Admin
 {: .label .label-green }
@@ -12,13 +12,13 @@ Admin
 ## Prerequisites
 Before you begin, please ensure you have installed [Oracle VirtualBox](https://www.virtualbox.org/wiki/Downloads).
 
-## Install
+## Install and configure
 There are a number of options available to install ownCloud depending on your system and preferences. Refer to the [ownCloud download guide](https://owncloud.org/download/#owncloud-server) for a complete list of options.
 
 The quickest way to install ownCloud is to use a pre-configured virtual appliance. Pre-configured virtual appliances contain operating systems together with ownCloud and the required support applications already installed.
 Follow the steps below to install ownCloud using a VirtualBox. ownCloud also provide virtual appliance files for ESXi, VMware, and KVM that can be used depending on your preference.
 
-To install ownCloud using a VirtualBox appliance file, complete the following steps:
+To install and configure ownCloud using a VirtualBox appliance file, complete the following steps:
 1. Using your browser, navigate to the [ownCloud download page](https://owncloud.com/download/).
 2. Under `Download ownCloud Server` click on `DOWNLOAD`.
 3. Complete the form with your details and select `VirtualBox` from `Download version`.
@@ -28,4 +28,4 @@ To install ownCloud using a VirtualBox appliance file, complete the following st
 7. Click `Next` and `Import` to import the virtual appliance.
 6. To complete the installation, click `Start` on the virtual appliance and follow the steps in the configuration wizard. For a detailed guide on how to use the configuration wizard, refer to [How to Install the Appliance](https://doc.owncloud.org/server/10.4/admin_manual/appliance/installation/installation.html#configuration-wizard).
 
-Note: Keep a record of the administrator password you choose. You need this to configure and manage your ownCloud server.
+Note: Keep a record of the administrator password and IP address you choose. You need this to configure and manage your ownCloud server.
