@@ -8,3 +8,11 @@ nav_order: 6
 {: .d-inline-block }
 User
 {: .label .label-blue }
+
+To connect to ownCloud as a user,
+
+* links to applications
+
+
+* how to connect
+*
