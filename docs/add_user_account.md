@@ -5,3 +5,6 @@ nav_order: 5
 ---
 
 # Add a new user account
+{: .d-inline-block }
+Admin
+{: .label .label-green }

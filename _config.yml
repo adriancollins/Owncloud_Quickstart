@@ -15,8 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 title: ownCloud Quickstart Guide
 description: Quickstart guide for setting up ownCloud
-baseurl: "Owncloud_Quickstart" # the subpath of your site, e.g. /blog
-url: "https://adriancollins.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/Owncloud_Quickstart" # the subpath of your site, e.g. /blog
+url: "https://adriancollins.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
 exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"]
