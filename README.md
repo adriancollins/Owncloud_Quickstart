@@ -1,4 +1,4 @@
-# Quickstart guide for ownCloud
+# Quickstart guide for ownCloud (version 10.5)
 
 ![ownCloud logo](./assets/images/OwnCloud_logo.svg)
 
