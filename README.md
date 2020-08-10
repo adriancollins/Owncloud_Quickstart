@@ -17,6 +17,3 @@ This document is built using the Jekyll static site generator along with the Jus
 2. Using your terminal, navigate to the root of the project.
 3. Run `bundle exec jekyll serve`.
 4. To view the running project, use your browser to navigate to `localhost:4000`.
-
-## License
-The theme is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
