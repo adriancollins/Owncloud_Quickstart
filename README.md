@@ -13,7 +13,7 @@ This document is built using the Jekyll static site generator along with the Jus
 * [Just-the-docs](https://github.com/pmarsceill/just-the-docs)
 
 ## Build the project and serve locally
-1. Clone this repository.
-2. Using your terminal, navigate to the root of the project.
-3. Run `bundle exec jekyll serve`.
-4. To view the running project, use your browser to navigate to `localhost:4000`.
+1. Clone this repository
+2. Using your terminal, navigate to the root of the project
+3. Run `bundle exec jekyll serve`
+4. To view the running project, use your browser to navigate to `localhost:4000`
